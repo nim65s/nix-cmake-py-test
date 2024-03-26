@@ -19,7 +19,7 @@
           mkShell {
             packages = [
               cmake
-              python3
+              python312
             ];
           };
       in
