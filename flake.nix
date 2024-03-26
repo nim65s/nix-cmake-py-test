@@ -20,6 +20,7 @@
             packages = [
               cmake
               python312
+              sphinx
             ];
           };
       in
